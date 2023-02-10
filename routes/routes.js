@@ -1,4 +1,4 @@
-const {JSON} = require('express');
+//const {JSON} = require('express');
 const fs = require('fs');
 const path = require('path');
 
@@ -17,7 +17,7 @@ module.exports = (app) => {
         })
 
         // Sets up POST 
-        app.post('./api/notes', function (req, res) {
+        app.post('/api/notes', function (req, res) {
 
             // New Note for db json
             const newNote = req.body

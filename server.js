@@ -1,7 +1,8 @@
 // Dependencies/ Node modules 
 const express = require("express"); // Returns the function reference
 const fs = require("fs");
-const path = require("path") // Utilities fo the files directory path
+const path = require("path"); // Utilities fo the files directory path
+//const routes = require("./routes/routes");
 
 // Initilize the app/express and create a port number
 const app = express()

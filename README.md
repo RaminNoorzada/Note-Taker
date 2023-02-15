@@ -49,6 +49,6 @@ npm test
 
 
 ## Page screenshots 
-! [3!] (Screenshot 2023-02-15 002556 note-taker 3.png)
-! [2!] (Screenshot 2023-02-15 002454 note-taker 2.png)
-! [1!] (Screenshot 2023-02-15 001906 Note-taker 1.png)
+! [3!] (Screenshot-2023-02-15-002556-note-taker-3.png)
+! [2!] (Screenshot-2023-02-15-002454-note-taker-2.png)
+! [1!] (Screenshot 2023-02-15-001906-Note-taker-1.png)
